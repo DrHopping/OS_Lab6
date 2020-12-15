@@ -58,4 +58,5 @@ The profiling tool makes it clear that the bulk of the CPU time was spent execut
 
 ### After 'optimization'
 ![](img/img2.png)
+
 After deleting Thread.Sleep() method in func1() perfomance has significantly increased that we can clearly see in profiling tool.
